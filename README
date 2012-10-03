@@ -1,0 +1,7 @@
+I'm borrowing some code from the boost tutorials and modifying it to suit my needs. Since the network system is the most important part of the game I'm developing, I will be doing most of my work on this repository.
+
+42 is in the name because it is the minimum number of connections required to set up a 3-dimensional p2p network if each object is required to have 6 nearby connections close to each axis if the coordinate system is centered and rotated with the object.
+
+This is basically the boost.asio chat client and chat server example mashed together, and I might submit it back to boost once I'm done modifying it. So:
+
+Copyright (c) 2012 Josh Miklos, Boost Software Liscense

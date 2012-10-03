@@ -1,0 +1,8 @@
+//compiled with mingw on windows 7 64-bit
+//libraries
+wsock32
+ws2_32
+pthreadGC2	
+libboost_system-mgw47-mt-d-1_50
+libboost_thread-mgw47-mt-d-1_50
+libboost_chrono-mgw47-mt-d-1_50
